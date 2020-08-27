@@ -174,7 +174,7 @@ def start( ) :
 note1 block will not be executed when this module 
 (converters.py) is imported.
 note1 block will be executed only when we run this module
-directlly. Instead of using start( ), we can write like note1.
+directly. Instead of using start( ), we can write like note1.
 """
 
 if __name__ ==  "__main__" : # note1
